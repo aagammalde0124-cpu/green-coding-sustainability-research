@@ -25,3 +25,7 @@ Independent research project investigating:
 ## License
 
 MIT License
+
+## Full Research Paper
+
+📄 [Download the complete paper](paper/Green_Coding_Research_Paper_Aagam_Malde.pdf)
