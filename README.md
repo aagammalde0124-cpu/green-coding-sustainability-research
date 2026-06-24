@@ -27,6 +27,7 @@ Independent research project investigating:
 ## Author
 
 **Aagam Mitul Malde**
+**Independent Researcher**
 
 ## License
 
